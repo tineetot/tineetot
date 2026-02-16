@@ -1,10 +1,6 @@
 # <p align="center"> ✨ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝒯𝒾𝓃𝑒'𝓈 𝒟𝑒𝓋 𝒮𝓅𝒶𝒸𝑒 ✨ </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=ff4d6d&height=200&section=header&text=Hi%2C%20I%27m%20Tine%21%20&fontSize=50&animation=fadeIn&fontAlignY=38&theme=rose" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/-Freshman-ffb3c1?style=flat-square" />
   <img src="https://img.shields.io/badge/-Aspiring%20Game%20Dev-a2d2ff?style=flat-square" />
   <img src="https://img.shields.io/badge/-NU--MOA-fb6f92?style=flat-square" />
