@@ -18,7 +18,7 @@
   * 📂 Build a fully functional Inventory/Management System
   * 🌐 Deploy my first personal portfolio website
   * 🎮 Start experimenting with **Unity** or **Godot**
-* **Fun Fact** :: Like a lot of devs, my journey started with a gaming controller in hand. I went from being fascinated by game mechanics to actually coding them. Now, I’m a freshman at NU-MOA focusing on the bridge between web tech and interactive design.
+* **Fun Fact** :: Like a lot of devs, my journey started with a gaming controller in hand. I went from being fascinated by game mechanics to actually coding them. Now, I’m a student at NU-MOA focusing on the bridge between web tech and interactive design.
 
 ---
 
