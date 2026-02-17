@@ -1,4 +1,4 @@
-# <p align="center"> ✨ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝒯𝒾𝓃𝑒'𝓈 𝒟𝑒𝓋 𝒮𝓅𝒶𝒸𝑒 ✨ </p>
+# <p align="center"> ✨ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛɪɴᴇ'ꜱ ᴅᴇᴠ ꜱᴘᴀᴄᴇ ✨ </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Freshman-ffb3c1?style=flat-square" />
@@ -8,21 +8,21 @@
 
 ---
 
-### 💌 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
-> 🌸 **BSIT-MWA Freshman @ NU-MOA** > 👩‍💻 Specializing in **Mobile and Web Applications**. 
-> ☁️ *Diving deep into the world of development, building a solid foundation in coding while exploring the latest web technologies.*
+### 💌 ᴀʙᴏᴜᴛ ᴍᴇ
+> 🌸 **BSIT-MWA Freshman @ NU-MOA** > Specializing in **Mobile and Web Applications**. 
+> ☁️ *Building my foundation in tech one line of code at a time. Currently obsessed with Java Swing and creating aesthetic, user-friendly web experiences.*
 
-* 🔭 **Current Focus** :: Mastering the basics of **Java** & responsive web layouts 
-* 🌱 **Leveling Up** :: `HTML` • `CSS` • `Java` • `Python` 
-* 🎯 **2026 Goals** :: 
+* **Current Focus** :: Mastering the basics of **Java** & responsive web layouts 
+* **Leveling Up** :: `HTML` • `CSS` • `Java` • `Python` 
+* **2026 Goals** :: 
   * 📂 Build a fully functional Inventory/Management System
   * 🌐 Deploy my first personal portfolio website
   * 🎮 Start experimenting with **Unity** or **Godot**
-* ⚡ **Fun Fact** :: My fascination with computers started with gaming. I didn't just want to play them; I wanted to understand the "magic" behind the mechanics. Now, I'm turning that curiosity into a career to eventually bridge the gap between web tech and interactive entertainment! 
+* **Fun Fact** :: Like a lot of devs, my journey started with a gaming controller in hand. I went from being fascinated by game mechanics to actually coding them. Now, I’m a freshman at NU-MOA focusing on the bridge between web tech and interactive design.
 
 ---
 
-### 🕹️ 𝒞𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝒫𝓁𝒶𝓎𝒾𝓃𝑔
+### 🕹️ ᴄᴜʀʀᴇɴᴛʟʏ ᴘʟᴀʏɪɴɢ
 <p align="left">
 <img src="https://img.shields.io/badge/Valorant-ff4d6d?style=for-the-badge&logo=valorant&logoColor=white" />
 <img src="https://img.shields.io/badge/Minecraft-a2d2ff?style=for-the-badge&logo=minecraft&logoColor=white" />
