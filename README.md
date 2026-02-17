@@ -9,7 +9,7 @@
 ---
 
 ### 💌 ᴀʙᴏᴜᴛ ᴍᴇ
-> 🌸 **BSIT-MWA Freshman @ NU-MOA** > Specializing in **Mobile and Web Applications**. 
+> 🌸 **BSIT-MWA Student @ NU-MOA** > Specializing in **Mobile and Web Applications**. 
 > ☁️ *Building my foundation in tech one line of code at a time. Currently obsessed with Java Swing and creating aesthetic, user-friendly web experiences.*
 
 * **Current Focus** :: Mastering the basics of **Java** & responsive web layouts 
