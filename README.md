@@ -28,8 +28,6 @@
 <img src="https://img.shields.io/badge/Minecraft-a2d2ff?style=for-the-badge&logo=minecraft&logoColor=white" />
 <img src="https://img.shields.io/badge/Albion_Online-fb6f92?style=for-the-badge&logo=albion-online&logoColor=white" />
 <img src="https://img.shields.io/badge/Roblox-8093f1?style=for-the-badge&logo=roblox&logoColor=white" />
-</p>
-<p align="left">
 <img src="https://img.shields.io/badge/Repo-ff758f?style=for-the-badge&logo=game-controller&logoColor=white" />
 <img src="https://img.shields.io/badge/Bloodstrike-72efdd?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/Heartopia-ff85a1?style=for-the-badge&logo=heart&logoColor=white" />
