@@ -21,14 +21,3 @@
 * **Fun Fact** :: Like a lot of devs, my journey started with a gaming controller in hand. I went from being fascinated by game mechanics to actually coding them. Now, I’m a student at NU-MOA focusing on the bridge between web tech and interactive design.
 
 ---
-
-### 🕹️ ᴄᴜʀʀᴇɴᴛʟʏ ᴘʟᴀʏɪɴɢ
-<p align="left">
-<img src="https://img.shields.io/badge/Valorant-ff4d6d?style=for-the-badge&logo=valorant&logoColor=white" />
-<img src="https://img.shields.io/badge/Minecraft-a2d2ff?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Albion_Online-fb6f92?style=for-the-badge&logo=albion-online&logoColor=white" />
-<img src="https://img.shields.io/badge/Roblox-8093f1?style=for-the-badge&logo=roblox&logoColor=white" />
-<img src="https://img.shields.io/badge/Repo-ff758f?style=for-the-badge&logo=game-controller&logoColor=white" />
-<img src="https://img.shields.io/badge/Bloodstrike-72efdd?style=for-the-badge&logo=target&logoColor=white" />
-<img src="https://img.shields.io/badge/Heartopia-ff85a1?style=for-the-badge&logo=heart&logoColor=white" />
-</p>
