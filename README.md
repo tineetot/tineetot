@@ -1,8 +1,8 @@
 # <p align="center"> ✨ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛɪɴᴇ'ꜱ ᴅᴇᴠ ꜱᴘᴀᴄᴇ ✨ </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-College Student-ffb3c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Aspiring%20Game%20Dev-a2d2ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/-College%20Student-ffb3c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Aspiring%20Full--Stack%20Developer-a2d2ff?style=flat-square" />
   <img src="https://img.shields.io/badge/-NU--MOA-fb6f92?style=flat-square" />
 </p>
 
