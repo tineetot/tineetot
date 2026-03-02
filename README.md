@@ -1,11 +1,5 @@
 # <p align="center"> ✨ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛɪɴᴇ'ꜱ ᴅᴇᴠ ꜱᴘᴀᴄᴇ ✨ </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Aspiring%20Full--Stack%20Developer-a2d2ff?style=flat-square" />
-</p>
-
----
-
 # 💌 ᴀʙᴏᴜᴛ ᴍᴇ
 
 > 🚀 **Full-Stack Developer in Training** > **BSIT** Specializing in **Mobile and Web Applications**.  
