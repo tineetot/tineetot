@@ -1,4 +1,4 @@
-# <p align="center"> ✨ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛɪɴᴇ'ꜱ ᴅᴇᴠ ꜱᴘᴀᴄᴇ ✨ </p>
+# <p align="center"> ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛɪɴᴇ'ꜱ ᴅᴇᴠ ꜱᴘᴀᴄᴇ </p>
 
 ### 👋 Hi there!
 I’m a **BSIT student** and an aspiring **Full-Stack Developer**. I love the magic of turning a messy idea into a clean, working app.
@@ -15,9 +15,9 @@ I started with the basics of logic and have been expanding my toolkit ever since
 ---
 
 ### My 2026 Checklist
-- [ ] 🌐 **Personal Portfolio:** Launch a professional site using React/Next.js to showcase my work.
-- [ ] 🛠️ **Full-Stack Project:** Build a "real-world" management system using **Java** or **Node** with a **MySQL** database.
-- [ ] 📱 **Mobile-First:** Make sure every project I build looks great on a phone before I even touch the desktop version.
+- [ ] **Personal Portfolio:** Launch a professional site using React/Next.js to showcase my work.
+- [ ] **Full-Stack Project:** Build a "real-world" management system using **Java** or **Node** with a **MySQL** database.
+- [ ] **Mobile-First:** Make sure every project I build looks great on a phone before I even touch the desktop version.
 
 ---
 
