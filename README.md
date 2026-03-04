@@ -6,7 +6,7 @@ I’m a **BSIT student** and an aspiring **Full-Stack Developer**. I love the ma
 ---
 
 ### My Tech Journey
-I started with the basics of logic and have been expanding my toolkit ever since. I'm a big believer in "I learn from every experience."
+I started with the basics of logic and have been expanding my knowledge ever since.
 
 * **Languages & Tools** :: `HTML` • `CSS` • `JavaScript` • `Java` • `MySQL`
 * **Foundation** :: I have a solid background in **Java (OOP)** and **SQL**, which helps me understand how data flows and how logic works.
