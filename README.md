@@ -1,7 +1,7 @@
 # <p align="center"> ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛɪɴᴇ'ꜱ ᴅᴇᴠ ꜱᴘᴀᴄᴇ </p>
 
 ### 👋 Hi there!
-I’m a **BSIT student** and an aspiring **Full-Stack Developer**. I love the magic of turning a messy idea into a clean, working app.
+I’m a **BSIT student**
 
 ---
 
@@ -10,16 +10,6 @@ I started with the basics of logic and have been expanding my knowledge ever sin
 
 * **Languages & Tools** :: `HTML` • `CSS` • `JavaScript` • `Java` • `MySQL`
 * **Foundation** :: I have a solid background in **Java (OOP)** and **SQL**, which helps me understand how data flows and how logic works.
-* **Where I'm Learning** :: I spend my time on **Scrimba** and **freeCodeCamp**, mastering everything from Responsive Design to React.
-
----
-
-### My 2026 Checklist
-- [ ] **Personal Portfolio:** Launch a professional site using React/Next.js to showcase my work.
-- [ ] **Full-Stack Project:** Build a "real-world" management system using **Java** or **Node** with a **MySQL** database.
-- [ ] **Mobile-First:** Make sure every project I build looks great on a phone before I even touch the desktop version.
-
----
 
 ### Fun Fact
 My path to programming actually started with a **potato PC**! I went from being fascinated by how things worked to wanting to build them myself. These days, When I’m not coding, I’m usually playing **PC Games**.
