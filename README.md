@@ -58,14 +58,9 @@ A responsive React and Vite reviewer application featuring flashcards, practice 
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tineetot&theme=github_dark" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tineetot&theme=github_dark" /> </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tineetot&theme=github_dark" height="150" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tineetot&theme=github_dark" height="150" /> &nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tineetot&theme=github_dark" height="150" /> </p>
 
 ---
 
