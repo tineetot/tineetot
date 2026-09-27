@@ -26,18 +26,6 @@
 
 ---
 
-## Featured Projects
-
-### [Pokémon Priority Battle Arena](https://github.com/tineetot/PokemonPriorityBattleArena)
-
-A Java terminal-based Pokémon battle simulator that uses a custom max-heap to determine action order based on move priority and Pokémon speed.
-
-### Study.exe
-
-A responsive React and Vite reviewer application featuring flashcards, practice quizzes, and progress tracking for academic study sessions.
-
----
-
 ## Languages and Tools
 
 <p align="left">
