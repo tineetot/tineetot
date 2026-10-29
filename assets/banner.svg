@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+  <title id="title">Kristine — small ideas, thoughtful projects</title>
+  <desc id="desc">A blush notebook banner with rose text, a ribbon, and a small code symbol.</desc>
+  <rect x="1" y="1" width="998" height="188" rx="20" fill="#FFF1F3" stroke="#F4ACB7" stroke-width="2"/>
+  <path d="M35 147H965M35 158H965" stroke="#FBD5DF"/>
+  <text x="55" y="52" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" fill="#9D405B">NOTES FROM MY CODING JOURNEY</text>
+  <text x="55" y="105" font-family="Georgia,serif" font-size="39" fill="#702B42">Small ideas, thoughtful projects.</text>
+  <text x="57" y="133" font-family="Arial,sans-serif" font-size="15" fill="#9D405B">Web development · Data · AI · A little curiosity</text>
+  <g transform="translate(874 77)" fill="#FBD5DF" stroke="#D96C86" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M0 0C-58-48-69 26-9 11L-22 53 0 38 22 53 9 11C69 26 58-48 0 0Z"/>
+    <ellipse cx="0" cy="7" rx="9" ry="11" fill="#F4ACB7"/>
+  </g>
+</svg>
