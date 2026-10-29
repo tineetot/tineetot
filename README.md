@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kristine 🎀</h1>
+<h1 align="center">Hi, I'm Kristine! </h1>
 
 <p align="center">
   <img src="assets/sylveon.gif" alt="Animated Sylveon" height="85" />
@@ -63,17 +63,6 @@ Tools I'm using and learning through coursework and personal projects.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tineetot/tineetot/output/snake.svg" />
   <img alt="A pink snake moving through my GitHub contribution graph" src="https://raw.githubusercontent.com/tineetot/tineetot/output/snake.svg" width="100%" />
 </picture>
-
-## Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/kristineborres">
-    <img src="https://img.shields.io/badge/LinkedIn-D96C86?style=flat-square&amp;logoColor=white" alt="Connect with Kristine on LinkedIn" />
-  </a>
-  <a href="https://github.com/tineetot">
-    <img src="https://img.shields.io/badge/GitHub-D96C86?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore tineetot on GitHub" />
-  </a>
-</p>
 
 <br />
 
