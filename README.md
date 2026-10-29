@@ -66,11 +66,3 @@ Tools I'm using and learning through coursework and personal projects.
 
 <br />
 
-<p align="center">
-  <img src="assets/victini.gif" alt="Animated Victini" height="60" /><br />
-  <i>Still learning, still building, celebrating the little wins.</i>
-</p>
-
-<!-- Pokémon sprites: PokeAPI/sprites, animated sprites by the Smogon community.
-     Typing animation: DenverCoder1/readme-typing-svg.
-     Contribution animation: Platane/snk. -->
