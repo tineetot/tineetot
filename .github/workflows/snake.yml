@@ -1,0 +1,40 @@
+name: Update pink contribution snake
+
+on:
+  schedule:
+    - cron: "23 1 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate pink snakes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#9D405B&color_dots=#FFF1F3,#FBD5DF,#F4ACB7,#DF819B,#B64E70
+            dist/snake-dark.svg?palette=github-dark&color_snake=#F4ACB7&color_dots=#211B23,#50303F,#81445E,#B66180,#EC9DB5
+
+      - name: Publish snake images
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update pink contribution snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
