@@ -28,13 +28,16 @@ This profile is where I share that progress, including the small projects that h
 | **Data & AI** | Learning Python, data science, and machine learning foundations through GCI World and DataCamp. |
 | **Java & DSA** | Building a terminal-based Pokémon battle simulator with a custom max-heap to order battle actions. |
 | **Web Development** | Creating responsive projects with React, Vite, JavaScript, HTML, and CSS. |
-| **Learning in Public** | Sharing projects and lessons as I go, even while I'm still figuring things out. |
+
+## A Few Things I've Made
 
 ## A Few Things I've Made
 
 | Project | A little about it | Explore |
 | --- | --- | --- |
 | **A Little Somewhere** | A personal digital scrapbook for journaling, planning, reflection, and everyday memories. | [Try it online](https://alittlesomewhere.vercel.app/) |
+| **Pokémon Priority Battle Arena** | A Java console-based Pokémon battle simulator built for a Data Structures and Algorithms project. Uses a custom max-heap to prioritize battle actions based on move priority, Pokémon speed, and action order. | [Repository](PASTE_POKEMON_ARENA_REPOSITORY_LINK_HERE) |
+| **Vantage – Portfolio Management System** | A Java Swing desktop application designed to help users organize and manage their portfolios. Contributed as one of the two coders, working on implementing the application's features and interface. | [Repository](https://github.com/cymriccc/Portfolio-Management-System) |
 | **Pokémon: Moonveil** | A Java Swing application with registration, login, profile settings, and a Pokédex-style dashboard. | [Repository](https://github.com/tineetot/Java-GUI-Application-Pokemon-Moonveil) |
 | **SecurePass** | A JavaScript practice project for generating random password options with adjustable length and character toggles. | [Repository](https://github.com/tineetot/Password-Generator) |
 
