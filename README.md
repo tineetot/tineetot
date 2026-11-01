@@ -31,8 +31,6 @@ This profile is where I share that progress, including the small projects that h
 
 ## A Few Things I've Made
 
-## A Few Things I've Made
-
 | Project | A little about it | Explore |
 | --- | --- | --- |
 | **A Little Somewhere** | A personal digital scrapbook for journaling, planning, reflection, and everyday memories. | [Try it online](https://alittlesomewhere.vercel.app/) |
