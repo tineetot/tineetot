@@ -43,18 +43,33 @@ This profile is where I share that progress, including the small projects that h
 
 Tools I'm using and learning through coursework and personal projects.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-F4ACB7?style=flat-square&amp;logo=openjdk&amp;logoColor=702B42" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-F4ACB7?style=flat-square&amp;logo=python&amp;logoColor=702B42" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F4ACB7?style=flat-square&amp;logo=javascript&amp;logoColor=702B42" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-F4ACB7?style=flat-square&amp;logo=react&amp;logoColor=702B42" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-F4ACB7?style=flat-square&amp;logo=vite&amp;logoColor=702B42" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-F4ACB7?style=flat-square&amp;logo=html5&amp;logoColor=702B42" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-F4ACB7?style=flat-square&amp;logo=css&amp;logoColor=702B42" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-F4ACB7?style=flat-square&amp;logo=mysql&amp;logoColor=702B42" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F4ACB7?style=flat-square&amp;logo=git&amp;logoColor=702B42" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-F4ACB7?style=flat-square&amp;logo=github&amp;logoColor=702B42" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-F4ACB7?style=flat-square&amp;logoColor=702B42" alt="VS Code" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=F4ACB7" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=F4ACB7" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F4ACB7" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=F4ACB7" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=F4ACB7" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=F4ACB7" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=F4ACB7" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=F4ACB7" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F4ACB7" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=F4ACB7" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=F4ACB7" alt="VS Code" />
+</p>
+
+## GitHub Stats & Streaks
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=tineetot&show_icons=true&hide_border=true&title_color=F4ACB7&text_color=C9D1D9&icon_color=D96C86&bg_color=0D1117&ring_color=D96C86"
+    alt="Kristine's GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="./profile/streak.svg"
+    alt="Kristine's GitHub Contribution Streak"
+    width="48%"
+  />
 </p>
 
 ## Little Contributions Add Up
