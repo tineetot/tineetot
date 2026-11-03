@@ -28,7 +28,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&hide_border=true&background=FFF7F5&stroke=F4ACB7&ring=D96C86&fire=D96C86&currStreakNum=702B42&sideNums=702B42&currStreakLabel=702B42&sideLabels=702B42&dates=B76E79&timezone=Asia/Manila&disable_animations=true
+          options: user=${{ github.repository_owner }}&hide_border=true&background=0D1117&stroke=30363D&ring=D96C86&fire=F4ACB7&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=F4ACB7&sideLabels=C9D1D9&dates=8B949E&timezone=Asia/Manila&disable_animations=true
           path: profile/streak.svg
 
       - name: Commit streak stats
