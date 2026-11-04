@@ -21,14 +21,6 @@ I enjoy turning lessons into projects I can actually use—from Pokémon-themed 
 
 This profile is where I share that progress, including the small projects that help me try something new.
 
-## What I'm Exploring
-
-| Area | Currently learning and building |
-| --- | --- |
-| **Data & AI** | Learning Python, data science, and machine learning foundations through GCI World and DataCamp. |
-| **Java & DSA** | Building a terminal-based Pokémon battle simulator with a custom max-heap to order battle actions. |
-| **Web Development** | Creating responsive projects with React, Vite, JavaScript, HTML, and CSS. |
-
 ## A Few Things I've Made
 
 | Project | A little about it | Explore |
