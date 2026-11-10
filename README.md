@@ -62,6 +62,13 @@ Tools I'm using and learning through coursework and personal projects.
     width="48%"
   />
 </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tineetot&layout=compact&langs_count=8&hide_border=true&title_color=F4ACB7&text_color=C9D1D9&bg_color=0D1117&card_width=500"
+    alt="Kristine's Most Used Languages"
+    width="60%"
+  />
+</p>
 
 ## Little Contributions Add Up
 
