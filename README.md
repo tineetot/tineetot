@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kristine! </h1>
+<h1 align="center">Hi, I'm Kristine (tine)! </h1>
 
 <p align="center">
   <img src="assets/sylveon.gif" alt="Animated Sylveon" height="85" />
